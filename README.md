@@ -3,3 +3,10 @@
 </p>
 
 >Repositório onde estará meus projetos desenvolvidos na trilha de Node.js da RocketSeat. 🚀
+
+# 👾 Challenges
+
+## :one: Chapter I
+
+[Desafio 1](https://github.com/navazl/ignite-nodejs-desafio-1): Desafio sobre os conceitos do Node.js.
+
