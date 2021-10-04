@@ -4,6 +4,13 @@
 
 >Repositório onde estará meus projetos desenvolvidos na trilha de Node.js da RocketSeat. 🚀
 
+# :rocket: Projetos
+
+## :one: Chapter I
+
+[FinAPI](https://github.com/navazl/ignite-nodejs/tree/main/FinAPI): Projeto de uma API sobre finanças.
+
+
 # 👾 Challenges
 
 ## :one: Chapter I
