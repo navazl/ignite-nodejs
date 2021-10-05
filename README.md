@@ -16,4 +16,5 @@
 ## :one: Chapter I
 
 [Desafio 1](https://github.com/navazl/ignite-nodejs-desafio-1): Desafio sobre os conceitos do Node.js.
+[Desafio 2](https://github.com/navazl/ignite-nodejs-desafio-2): Desafio sobre middleware.
 
