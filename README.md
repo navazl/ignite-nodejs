@@ -19,3 +19,4 @@
 
 [Desafio 2](https://github.com/navazl/ignite-nodejs-desafio-2): Desafio sobre middleware.
 
+[Desafio 3](https://github.com/navazl/ignite-nodejs-desafio-3): Desafio sobre corrigir um código.
