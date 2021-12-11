@@ -10,6 +10,9 @@
 
 [FinAPI](https://github.com/navazl/ignite-nodejs/tree/main/FinAPI): Projeto de uma API sobre finanças.
 
+## :two: Chapter II
+
+[RentalX](https://github.com/navazl/ignite-nodejs/tree/main/RentalX): Projeto de uma API utilizando o SOLID.
 
 # 👾 Challenges
 
@@ -20,3 +23,7 @@
 [Desafio 2](https://github.com/navazl/ignite-nodejs-desafio-2): Desafio sobre middleware.
 
 [Desafio 3](https://github.com/navazl/ignite-nodejs-desafio-3): Desafio sobre corrigir um código.
+
+## :two: Chapter II
+
+[Desafios 4 e 5](https://github.com/navazl/ignite-nodejs-desafio-4-5): Desafio sobre criar um API e documentar ela.
