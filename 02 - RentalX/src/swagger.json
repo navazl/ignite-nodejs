@@ -51,7 +51,7 @@
           "Category"
         ],
         "summary": "List all categories",
-        "description": "List all categories",
+        "description": "List all categories if you're admin",
         "responses": {
           "200": {
             "description": "Success",
